@@ -1,4 +1,4 @@
-# age-calculator
+# 🧮 age-calculator
 Java Age Calculator
 
 [![Screenshot](./screenshot.png)](https://github.com/st0pcha)
