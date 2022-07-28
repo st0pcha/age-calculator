@@ -1,6 +1,6 @@
-# 🧮 age-calculator
-Java Age Calculator
+[![Header](https://github.com/st0pcha/st0pcha/blob/main/assets/header.png)](https://st0pcha.github.io/)
 
+# 🧮 Java Age Calculator
 [![Screenshot](./screenshot.png)](https://github.com/st0pcha)
 
 ### 🏃‍♂️ How to run?
